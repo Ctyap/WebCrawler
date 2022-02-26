@@ -1,0 +1,163 @@
+Number of unique pages found: 4509
+Longest page in terms of word: https://evoke.ics.uci.edu/viewing-the-world-through-technologys-eyes
+Longest page word count: 21320
+
+Top 50 words:
+research -> 20964
+ramesh -> 15065
+information -> 11490
+computer -> 11162
+students -> 10225
+2020 -> 10211
+software -> 10012
+student -> 9597
+2018 -> 9436
+will -> 9316
+2019 -> 8725
+read -> 8703
+past -> 8681
+2021 -> 8668
+current -> 8612
+informatics -> 8316
+news -> 8191
+engineering -> 8132
+2017 -> 7992
+courses -> 7829
+books -> 7798
+2016 -> 7572
+bs -> 7411
+2015 -> 7381
+jain -> 7277
+events -> 7132
+phd -> 7128
+science -> 7026
+department -> 6900
+search -> 6844
+may -> 6821
+reply -> 6728
+people -> 6638
+computing -> 6591
+undergraduate -> 6469
+data -> 6449
+graduate -> 6430
+projects -> 6366
+march -> 6341
+design -> 6285
+april -> 5979
+january -> 5684
+february -> 5660
+university -> 5570
+can -> 5455
+september -> 5348
+november -> 5286
+companies -> 5254
+june -> 5250
+october -> 5248
+
+Subdomains:
+Total number of subdomains within ics.uci.edu: 105
+http://archive.ics.uci.edu 0
+http://asterix.ics.uci.edu 11
+http://cert.ics.uci.edu 26
+http://cgvw.ics.uci.edu 0
+http://cloudberry.ics.uci.edu 36
+http://cml.ics.uci.edu 36
+http://codeexchange.ics.uci.edu 0
+http://computableplant.ics.uci.edu 0
+http://coronavirustwittermap.ics.uci.edu 3
+http://cradl.ics.uci.edu 18
+http://cwicsocal18.ics.uci.edu 19
+http://dejavu.ics.uci.edu 3
+http://duttgroup.ics.uci.edu 48
+http://emj.ics.uci.edu 44
+http://evoke.ics.uci.edu 74
+http://fr.ics.uci.edu 0
+http://futurehealth.ics.uci.edu 71
+http://graphmod.ics.uci.edu 59
+http://hai.ics.uci.edu 10
+http://hana.ics.uci.edu 27
+http://hombao.ics.uci.edu 19
+http://honors.ics.uci.edu 0
+http://i-sensorium.ics.uci.edu 16
+http://informatics.ics.uci.edu 157
+http://intranet.ics.uci.edu 23
+http://ipubmed.ics.uci.edu 18
+http://isg.ics.uci.edu 41
+http://jgarcia.ics.uci.edu 0
+http://luci.ics.uci.edu 14
+http://malek.ics.uci.edu 19
+http://map125.ics.uci.edu 0
+http://mcs.ics.uci.edu 50
+http://mhcid.ics.uci.edu 32
+http://mondego.ics.uci.edu 24
+http://nalini.ics.uci.edu 27
+http://ngs.ics.uci.edu 0
+http://omni.ics.uci.edu 0
+http://plrg.ics.uci.edu 52
+http://psearch.ics.uci.edu 0
+http://radicle.ics.uci.edu 7
+http://riscit.ics.uci.edu 36
+http://sconce.ics.uci.edu 29
+http://sdcl.ics.uci.edu 74
+http://se.ics.uci.edu 15
+http://seraja.ics.uci.edu 0
+http://sherlock.ics.uci.edu 9
+http://sli.ics.uci.edu 41
+http://soc.ics.uci.edu 0
+http://sourcerer.ics.uci.edu 3
+http://sprout.ics.uci.edu 8
+http://stairs.ics.uci.edu 8
+http://tutors.ics.uci.edu 8
+http://vision.ics.uci.edu 14
+http://wics.ics.uci.edu 95
+http://www.informatics.ics.uci.edu 91
+https://Transformativeplay.ics.uci.edu 8
+https://acoi.ics.uci.edu 57
+https://archive.ics.uci.edu 68
+https://asterix-gerrit.ics.uci.edu 0
+https://cbcl.ics.uci.edu 4
+https://cert.ics.uci.edu 26
+https://chenli.ics.uci.edu 31
+https://cloudberry.ics.uci.edu 41
+https://cml.ics.uci.edu 36
+https://computableplant.ics.uci.edu 32
+https://coronavirustwittermap.ics.uci.edu 0
+https://cradl.ics.uci.edu 18
+https://create.ics.uci.edu 13
+https://cyberclub.ics.uci.edu 29
+https://duttgroup.ics.uci.edu 46
+https://emj.ics.uci.edu 44
+https://evoke.ics.uci.edu 74
+https://fr.ics.uci.edu 41
+https://futurehealth.ics.uci.edu 71
+https://grape.ics.uci.edu 187
+https://hai.ics.uci.edu 10
+https://hombao.ics.uci.edu 5
+https://informatics.ics.uci.edu 91
+https://intranet.ics.uci.edu 23
+https://ipubmed.ics.uci.edu 18
+https://jgarcia.ics.uci.edu 25
+https://mailman.ics.uci.edu 7
+https://malek.ics.uci.edu 0
+https://mcs.ics.uci.edu 52
+https://mdogucu.ics.uci.edu 15
+https://mds.ics.uci.edu 20
+https://mhcid.ics.uci.edu 32
+https://mondego.ics.uci.edu 0
+https://mse.ics.uci.edu 37
+https://mswe.ics.uci.edu 37
+https://ngs.ics.uci.edu 59
+https://password.ics.uci.edu 0
+https://plrg.ics.uci.edu 0
+https://radicle.ics.uci.edu 7
+https://redmiles.ics.uci.edu 10
+https://riscit.ics.uci.edu 36
+https://sdcl.ics.uci.edu 0
+https://seal.ics.uci.edu 8
+https://sourcerer.ics.uci.edu 0
+https://statconsulting.ics.uci.edu 23
+https://swiki.ics.uci.edu 39
+https://transformativeplay.ics.uci.edu 42
+https://unite.ics.uci.edu 18
+https://vision.ics.uci.edu 14
+https://wics.ics.uci.edu 95
